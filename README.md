@@ -1,7 +1,9 @@
 # 👋 Hi! I'm akirakawashi
 
 <div align="center">
-  <img src="https://github.com/akirakawashi.png" width="150" height="150" style="border-radius: 50%; border: 5px solid #8B5CF6;" alt="Alexander Ozhereliev"/>
+  <div style="border-radius: 50%; border: 5px solid #8B5CF6; overflow: hidden; width: 150px; height: 150px; display: inline-block;">
+    <img src="https://github.com/akirakawashi.png" width="150" height="150" alt="Alexander Ozhereliev" style="border-radius: 50%;"/>
+  </div>
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Backend+Developer;SQL+Specialist;ML+Engineer" alt="Typing SVG" />
 </div>
