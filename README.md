@@ -1,7 +1,7 @@
 # 👋 Hi! I'm akirakawashi
 
 <div align="center">
-  <img src="https://res.cloudinary.com/demo/image/fetch/w_150,h_150,c_fill,r_max,bo_5px_solid_rgb:8B5CF6/https://github.com/akirakawashi.png" width="150" height="150" alt="Alexander Ozhereliev" />
+  <img src="assets/avatar.svg" width="150" height="150" alt="Alexander Ozhereliev" />
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Backend+Developer;SQL+Specialist;ML+Engineer" alt="Typing SVG" />
 </div>
