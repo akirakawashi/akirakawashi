@@ -4,6 +4,6 @@
       <circle cx="75" cy="75" r="70" />
     </clipPath>
   </defs>
-  <image href="https://github.com/akirakawashi.png" width="150" height="150" clip-path="url(#clip-circle)" preserveAspectRatio="xMidYMid slice" />
+  <image href="../251261466.jpg" width="150" height="150" clip-path="url(#clip-circle)" preserveAspectRatio="xMidYMid slice" />
   <circle cx="75" cy="75" r="72" fill="none" stroke="#8B5CF6" stroke-width="5" />
 </svg>
