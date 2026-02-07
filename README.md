@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Alexander Ozhereliev
+# 👋 Hi! I'm akirakawashi
 
 <div align="center">
   <img src="https://github.com/akirakawashi.png" width="150" height="150" style="border-radius: 50%; border: 5px solid #8B5CF6;" alt="Alexander Ozhereliev"/>
@@ -75,21 +75,11 @@ Backend developer with experience in microservice architecture, machine learning
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akirakawashi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akirakawashi&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akirakawashi&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akirakawashi&theme=dark&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akirakawashi&theme=radical&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/akirakawashi/akirakawashi/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
-</div>
 
 ### 💼 Professional Experience
 - **Author of AiNoCraft project** (2026 - present)
