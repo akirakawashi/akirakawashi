@@ -1,8 +1,8 @@
-# 👋 Hi! I'm akirakawashi
+<div align="center">
+  <h1>👋 Hi! I'm akirakawashi</h1>
+</div>
 
 <div align="center">
-  <img src="assets/avatar.svg" width="150" height="150" alt="Alexander Ozhereliev" />
-  <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Backend+Developer;SQL+Specialist;ML+Engineer" alt="Typing SVG" />
 </div>
 
@@ -78,6 +78,8 @@ Backend developer with experience in microservice architecture, machine learning
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akirakawashi&theme=dark&hide_border=true" alt="GitHub Activity Graph"/>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akirakawashi&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
@@ -115,7 +117,7 @@ Backend developer with experience in microservice architecture, machine learning
     <img src="https://img.shields.io/badge/Email-akirakawashi@yandex.ru-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
-
+<br>
 <div align="center">
   <p>💬 <strong>Open to collaboration and new projects!</strong></p>
 </div>
