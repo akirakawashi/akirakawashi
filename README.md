@@ -83,6 +83,8 @@ Backend developer with experience in microservice architecture, machine learning
 </div>
 
 
+<div align="left">
+
 ### 💼 Professional Experience
 - **Author of AiNoCraft project** (2026 - present)
   - Microservice architecture for game server
@@ -100,6 +102,8 @@ Backend developer with experience in microservice architecture, machine learning
 - **ML Engineer (Audio → JSON)** (2025)
   - Speech to structured JSON conversion
   - Pipeline: Whisper + LLM via Hugging Face
+
+</div>
 
 ---
 
