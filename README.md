@@ -104,17 +104,11 @@ Backend developer with experience in microservice architecture, machine learning
 ---
 
 <div align="center">
-  <a href="https://ainocraft.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-ainocraft.com-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
   <a href="https://github.com/akirakawashi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-akirakawashi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://t.me/akirakawashi" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-akirakawashi-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:akirakawashi@yandex.ru">
-    <img src="https://img.shields.io/badge/Email-akirakawashi@yandex.ru-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
 <br>
