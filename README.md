@@ -1,108 +1,72 @@
 <div align="center">
-  <h1>👋 Hi! I'm akirakawashi</h1>
+  <h1>Привет, я akirakawashi</h1>
+  <p><strong>Backend-разработчик: Python, FastAPI, SQL, инфраструктура и прикладные ML/CV-проекты.</strong></p>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Backend+Developer;SQL+Specialist;ML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=FastAPI+Backend+Developer;SQL+%2F+PL%2FSQL;Applied+ML+%26+Computer+Vision;AiNoCraft+Author" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Backend%20Developer-8B5CF6?style=for-the-badge&logo=python&logoColor=white" alt="Backend Developer"/>
-  <img src="https://img.shields.io/badge/SQL%20Developer-4CAF50?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Developer"/>
-  <img src="https://img.shields.io/badge/ML%20Engineer-2196F3?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML Engineer"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </div>
 
-## 🚀 About Me
+## Обо мне
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400"/>
-</div>
+Я делаю backend-сервисы, интеграции и инфраструктуру вокруг реальных продуктовых сценариев: авторизация, хранение файлов, фоновые worker'ы, деплой, desktop-лаунчеры и API-интеграции.
 
-Backend developer working with microservice architecture, machine learning, and system administration. My main stack is Python, Java, and SQL; I usually work closest to APIs, databases, infrastructure, and practical ML pipelines.
+Моя основная зона — backend на Python и работа с SQL. При необходимости беру frontend-часть, если без неё продукт не складывается. Отдельно веду учебные AI/ML-проекты: рекомендательные системы, регрессия и computer vision.
 
----
+## Стек
 
-## 🛠️ Skills and Technologies
+**Backend:** Python, FastAPI, Pydantic, SQLAlchemy, SQLModel, Alembic, Uvicorn, REST API, JWT, httpx
 
-<div align="center">
-  <h3>Backend</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/>
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=rest&logoColor=white" alt="REST API"/>
-</div>
+**Данные и хранилища:** PostgreSQL, Redis, MinIO, Oracle, PL/SQL
 
-<div align="center">
-  <h3>Frontend</h3>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-</div>
+**Frontend и desktop:** React, React Router, JavaScript, HTML5, CSS3, PyWebView, PyInstaller
 
-<div align="center">
-  <h3>Databases</h3>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO"/>
-  <img src="https://img.shields.io/badge/PL%2FSQL-336791?style=flat-square&logo=oracle&logoColor=white" alt="PL/SQL"/>
-</div>
+**ML и анализ данных:** Pandas, NumPy, TensorFlow/Keras, scikit-learn, XGBoost, YOLOv8, OpenCV, Shapely, Matplotlib, Plotly
 
-<div align="center">
-  <h3>Machine Learning & AI</h3>
-  <img src="https://img.shields.io/badge/YOLOv8-FF6B35?style=flat-square&logo=yolo&logoColor=white" alt="YOLOv8"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Whisper-FF6B6B?style=flat-square&logo=openai&logoColor=white" alt="Whisper"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Transformers-FFD43B?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers"/>
-</div>
+**Инфраструктура и инструменты:** Docker, Docker Compose, Nginx, Poetry, PDM, Ruff, Git
 
-<div align="center">
-  <h3>DevOps & Tools</h3>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-</div>
+**Интеграции:** Tilda webhooks, Nextcloud WebDAV, SMTP, S3-compatible storage
 
-## 📊 GitHub Statistics
+## Проекты
 
-<div align="center">
+### AiNoCraft
+
+AiNoCraft — мой основной pet-проект: Minecraft-экосистема с backend-сервисами, React-фронтендом, Windows-лаунчером и production-инфраструктурой.
+
+- [AiNoCraft Backend](https://github.com/akirakawashi/AiNoCraft_back) — FastAPI backend для аккаунтов, JWT-auth, refresh-сессий, хранения аватаров в MinIO и Yggdrasil-compatible Minecraft auth/session API.
+- [AiNoCraft Frontend](https://github.com/akirakawashi/AiNoCraft_front) — React SPA для сайта проекта: лендинг, авторизация, регистрация, сброс пароля, личный кабинет, новости, магазин и страница лаунчера.
+- [AiNoCraft Launcher](https://github.com/akirakawashi/AiNoCraft_Launc) — Windows desktop launcher на Python + PyWebView: логин, скачивание сборок, локальные сессии, self-update и запуск Minecraft через `authlib-injector`.
+- [AiNoCraft Deployment](https://github.com/akirakawashi/AiNoCraft_dep) — Docker Compose и Nginx edge-слой для `ainocraft.com`, `api.ainocraft.com` и `storage.ainocraft.com`, с PostgreSQL, Redis и MinIO.
+
+### Учебные AI / ML-проекты
+
+- [Anime Recommendation System](https://github.com/akirakawashi/Anime_Recommendation_System) — notebook по collaborative filtering: TensorFlow/Keras embeddings, поиск похожих аниме, похожих пользователей и персональные top-N рекомендации.
+- [Diamond Price Prediction](https://github.com/akirakawashi/Diamond_Price_Prediction) — notebook по задаче регрессии для прогнозирования цены бриллиантов: feature engineering, `RandomizedSearchCV`, модели scikit-learn и XGBoost как лучший результат.
+- [ROI Detection Car](https://github.com/akirakawashi/roi_detection_car) — computer vision demo на YOLOv8, OpenCV и Shapely для детекции машин только внутри фиксированной ROI-зоны рядом со шлагбаумом.
+
+### Мини-проект по интеграции
+
+- [Integration Layer Tilda API](https://github.com/akirakawashi/integration_layer_tilda_api) — FastAPI-сервис между Tilda и Nextcloud: принимает webhook'и форм, сохраняет задачи в PostgreSQL, обрабатывает файлы в worker'е и загружает архивы через WebDAV.
+
+## Фокус опыта
+
+- **Автор AiNoCraft** — backend-архитектура, auth flows, интеграция с frontend, логика лаунчера и deployment-слой.
+- **SQL Developer / Support Specialist** — PL/SQL packages, procedures, triggers, отчёты, исправление данных и поддержка пользователей.
+- **Прикладная ML/CV-практика** — рекомендательные системы, регрессионные задачи, обработка видео через YOLOv8 и ROI-фильтрация.
+
+## GitHub-статистика
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akirakawashi&theme=dark&hide_border=true" alt="GitHub Activity Graph"/>
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akirakawashi&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-
-<div align="left">
-
-### 💼 Professional Experience
-- **Author of AiNoCraft project** (2026 - present)
-  - Microservice architecture for a game server
-  - Full CI/CD pipeline and JWT authentication
-  - Launcher development on PyQt5 and Java mod development
-
-- **SQL Developer / Support Specialist** (2024 - present)
-  - Full database development cycle: PL/SQL packages, procedures, triggers
-  - Complex reports, data fixes, and user support
-
-- **ML Engineer (Computer Vision)** (2025)
-  - Video monitoring system with YOLOv8 for barrier automation
-  - Real-time video processing with ROI detection
-
-- **ML Engineer (Audio → JSON)** (2025)
-  - Speech-to-structured-JSON conversion
-  - Pipeline: Whisper + LLM via Hugging Face
-
 </div>
 
 ---
@@ -115,9 +79,3 @@ Backend developer working with microservice architecture, machine learning, and 
     <img src="https://img.shields.io/badge/Telegram-akirakawashi-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
-<br>
-<div align="center">
-  <p>💬 <strong>Open to collaboration and new projects.</strong></p>
-</div>
-
----
