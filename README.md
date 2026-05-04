@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400"/>
 </div>
 
-Backend developer with experience in microservice architecture, machine learning, and system administration. I specialize in Python, Java, and SQL development. I love creating efficient solutions for complex tasks.
+Backend developer working with microservice architecture, machine learning, and system administration. My main stack is Python, Java, and SQL; I usually work closest to APIs, databases, infrastructure, and practical ML pipelines.
 
 ---
 
@@ -41,7 +41,7 @@ Backend developer with experience in microservice architecture, machine learning
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>lf
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </div>
 
 <div align="center">
@@ -87,20 +87,20 @@ Backend developer with experience in microservice architecture, machine learning
 
 ### 💼 Professional Experience
 - **Author of AiNoCraft project** (2026 - present)
-  - Microservice architecture for game server
-  - Full CI/CD pipeline, JWT authentication
-  - Development of launcher on PyQt5 and mods on Java
+  - Microservice architecture for a game server
+  - Full CI/CD pipeline and JWT authentication
+  - Launcher development on PyQt5 and Java mod development
 
 - **SQL Developer / Support Specialist** (2024 - present)
   - Full database development cycle: PL/SQL packages, procedures, triggers
-  - Creation of complex reports and user support
+  - Complex reports, data fixes, and user support
 
 - **ML Engineer (Computer Vision)** (2025)
   - Video monitoring system with YOLOv8 for barrier automation
   - Real-time video processing with ROI detection
 
 - **ML Engineer (Audio → JSON)** (2025)
-  - Speech to structured JSON conversion
+  - Speech-to-structured-JSON conversion
   - Pipeline: Whisper + LLM via Hugging Face
 
 </div>
@@ -117,7 +117,7 @@ Backend developer with experience in microservice architecture, machine learning
 </div>
 <br>
 <div align="center">
-  <p>💬 <strong>Open to collaboration and new projects!</strong></p>
+  <p>💬 <strong>Open to collaboration and new projects.</strong></p>
 </div>
 
 ---
