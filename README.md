@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td><strong>Основной фокус</strong></td>
-    <td>Backend, API, интеграции, SQL, инфраструктура</td>
+    <td>Backend, API, интеграции, SQL, Kafka, инфраструктура</td>
   </tr>
   <tr>
     <td><strong>Коммерческий опыт</strong></td>
@@ -51,6 +51,7 @@
   <img src="https://img.shields.io/badge/Alembic-2C3E50?style=flat-square" alt="Alembic"/>
   <img src="https://img.shields.io/badge/Uvicorn-499848?style=flat-square" alt="Uvicorn"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
   <br/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
@@ -92,6 +93,7 @@ AiNoCraft — мой основной pet-проект: Minecraft-экосист
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
         <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka"/>
         <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO"/>
       </p>
     </td>
@@ -171,7 +173,7 @@ AiNoCraft — мой основной pet-проект: Minecraft-экосист
 <table>
   <tr>
     <td><strong>Backend Developer в IC-Group</strong></td>
-    <td>backend-задачи на проектах для крупной телеком-компании: API, бизнес-логика, интеграции, работа с данными и поддержка серверной части.</td>
+    <td>backend-задачи на проектах для крупной телеком-компании: API, бизнес-логика, интеграции, Kafka, работа с данными и поддержка серверной части.</td>
   </tr>
   <tr>
     <td><strong>Oracle / PL/SQL Developer</strong></td>
@@ -188,6 +190,12 @@ AiNoCraft — мой основной pet-проект: Minecraft-экосист
 </table>
 
 ## GitHub-статистика
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Work%20activity-private%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Private GitLab activity"/>
+</div>
+
+> Большая часть моей рабочей активности находится в закрытом GitLab компании. Поэтому GitHub-статистика ниже отражает в основном pet-проекты, учебные работы и публичные репозитории.
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akirakawashi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
