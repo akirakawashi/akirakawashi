@@ -20,19 +20,21 @@
 
 Сейчас я работаю backend-разработчиком в IC-Group на проектах для крупной телеком-компании. Ближе всего мне серверная логика, API, интеграции, данные и поддержка backend-сервисов.
 
-До этого работал в Oracle-разработке на PL/SQL: packages, procedures, triggers, отчёты и поддержка пользователей. Сейчас основной стек — Python, FastAPI и SQL. Отдельно веду учебные AI/ML-проекты: рекомендательные системы, регрессия и computer vision.
+До этого работал в Oracle-разработке на PL/SQL: packages, procedures, triggers, отчёты и поддержка пользователей. Сейчас основной стек — Python, FastAPI и SQL.
+
+Отдельное направление — интеграции с AI. Подключаю модели в существующие сервисы, настраиваю взаимодействие с внешними API, автоматизирую задачи.
 
 <table>
   <tr>
     <td><strong>Основной фокус</strong></td>
-    <td>Backend, API, интеграции, SQL, Kafka, инфраструктура</td>
+    <td>Backend, API, интеграции, Oracle / PL/SQL, Kafka, инфраструктура</td>
   </tr>
   <tr>
     <td><strong>Коммерческий опыт</strong></td>
-    <td>IC-Group, проекты для крупной телеком-компании, Oracle / PL/SQL</td>
+    <td>IC-Group, проекты для крупной телеком-компании</td>
   </tr>
   <tr>
-    <td><strong>Pet-проект</strong></td>
+    <td><strong>Автор проекта</strong></td>
     <td>AiNoCraft: backend, frontend, launcher, deployment</td>
   </tr>
   <tr>
@@ -82,7 +84,7 @@
 
 ### AiNoCraft
 
-AiNoCraft — мой основной pet-проект: Minecraft-экосистема с backend-сервисами, React-фронтендом, Windows-лаунчером и production-инфраструктурой.
+AiNoCraft — мой личный проект: Minecraft-экосистема с backend-сервисами, React-фронтендом, Windows-лаунчером и production-инфраструктурой.
 
 <table>
   <tr>
