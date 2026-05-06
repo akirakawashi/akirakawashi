@@ -18,24 +18,28 @@
 
 ## Обо мне
 
-Сейчас я работаю backend-разработчиком в IC-Group на проектах для крупной телеком-компании. Ближе всего мне серверная логика, API, интеграции, данные и поддержка backend-сервисов.
+Сейчас я работаю backend-разработчиком в IC-Group на проектах для крупной телеком-компании. Больше всего мне интересны серверная логика, API, интеграции и всё, что связано с данными и стабильной работой backend-сервисов.
 
-До этого работал в Oracle-разработке на PL/SQL: packages, procedures, triggers, отчёты и поддержка пользователей. Сейчас основной стек — Python, FastAPI и SQL.
+До этого занимался Oracle-разработкой на PL/SQL: писал packages, procedures и triggers, собирал отчёты, разбирал инциденты и помогал пользователям на проде. Сейчас мой основной стек — Python, FastAPI и SQL.
 
-Отдельное направление — интеграции с AI. Подключаю модели в существующие сервисы, настраиваю взаимодействие с внешними API, автоматизирую задачи.
+Отдельно люблю инфраструктурную часть. Сам собираю Docker-образы, поднимаю окружения через Docker Compose и настраиваю CI/CD от сборки до выкладки. Параллельно работаю с AI-интеграциями: подключаю модели в существующие сервисы, связываю их с внешними API и автоматизирую рутинные процессы.
 
 <table>
   <tr>
     <td><strong>Основной фокус</strong></td>
-    <td>Backend, API, интеграции, Oracle / PL/SQL, Kafka, инфраструктура</td>
+    <td>Backend, API, интеграции, Oracle / PL/SQL, Kafka, инфраструктура, CI/CD</td>
   </tr>
   <tr>
     <td><strong>Коммерческий опыт</strong></td>
     <td>IC-Group, проекты для крупной телеком-компании</td>
   </tr>
   <tr>
+    <td><strong>Инфраструктура</strong></td>
+    <td>Docker, Docker Compose, Nginx, выкладка окружений и релизный контур</td>
+  </tr>
+  <tr>
     <td><strong>Автор проекта</strong></td>
-    <td>AiNoCraft: backend, frontend, launcher, deployment</td>
+    <td>AiNoCraft: backend, frontend, launcher, deployment, контейнеризация и CI/CD</td>
   </tr>
   <tr>
     <td><strong>AI / ML</strong></td>
@@ -45,42 +49,69 @@
 
 ## Стек
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
-  <img src="https://img.shields.io/badge/Alembic-2C3E50?style=flat-square" alt="Alembic"/>
-  <img src="https://img.shields.io/badge/Uvicorn-499848?style=flat-square" alt="Uvicorn"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
-  <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/PL%2FSQL-336791?style=flat-square" alt="PL/SQL"/>
-  <br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0B1020" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=0B1020" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
-  <img src="https://img.shields.io/badge/PyWebView-2C3E50?style=flat-square" alt="PyWebView"/>
-  <img src="https://img.shields.io/badge/PyInstaller-FFB000?style=flat-square" alt="PyInstaller"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white" alt="Poetry"/>
-  <img src="https://img.shields.io/badge/PDM-7C3AED?style=flat-square" alt="PDM"/>
-  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=0B1020" alt="Ruff"/>
-  <br/>
-  <img src="https://img.shields.io/badge/TensorFlow%2FKeras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow/Keras"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/XGBoost-1f6f43?style=flat-square" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square" alt="YOLOv8"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-</div>
+<table>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic"/>
+      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
+      <img src="https://img.shields.io/badge/Alembic-2C3E50?style=flat-square" alt="Alembic"/>
+      <img src="https://img.shields.io/badge/Uvicorn-499848?style=flat-square" alt="Uvicorn"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Data</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
+      <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO"/>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/>
+      <img src="https://img.shields.io/badge/PL%2FSQL-336791?style=flat-square" alt="PL/SQL"/>
+      <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend / Desktop</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0B1020" alt="React"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=0B1020" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+      <img src="https://img.shields.io/badge/PyWebView-2C3E50?style=flat-square" alt="PyWebView"/>
+      <img src="https://img.shields.io/badge/PyInstaller-FFB000?style=flat-square" alt="PyInstaller"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Infra / CI/CD</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose"/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
+      <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=flat-square" alt="CI/CD"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tooling</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white" alt="Poetry"/>
+      <img src="https://img.shields.io/badge/PDM-7C3AED?style=flat-square" alt="PDM"/>
+      <img src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=0B1020" alt="Ruff"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>ML / CV</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow%2FKeras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow/Keras"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+      <img src="https://img.shields.io/badge/XGBoost-1f6f43?style=flat-square" alt="XGBoost"/>
+      <img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square" alt="YOLOv8"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+    </td>
+  </tr>
+</table>
 
 ## Проекты
 
@@ -125,10 +156,11 @@ AiNoCraft — мой личный проект: Minecraft-экосистема �
     </td>
     <td width="50%">
       <h3><a href="https://github.com/akirakawashi/AiNoCraft_dep">AiNoCraft Deployment</a></h3>
-      <p>Docker Compose и Nginx edge-слой для <code>ainocraft.com</code>, <code>api.ainocraft.com</code> и <code>storage.ainocraft.com</code>, с PostgreSQL, Redis и MinIO.</p>
+      <p>Docker Compose и Nginx edge-слой для <code>ainocraft.com</code>, <code>api.ainocraft.com</code> и <code>storage.ainocraft.com</code>, с PostgreSQL, Redis и MinIO. Контейнеризация, конфигурация окружений и выкладка сервисов.</p>
       <p>
         <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose"/>
         <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
+        <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=flat-square" alt="CI/CD"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
         <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO"/>
       </p>
@@ -180,12 +212,16 @@ AiNoCraft — мой личный проект: Minecraft-экосистема �
     <td>backend-задачи на проектах для крупной телеком-компании: API, бизнес-логика, интеграции, Kafka, работа с данными и поддержка серверной части.</td>
   </tr>
   <tr>
+    <td><strong>Инфраструктура и релизы</strong></td>
+    <td>Собираю Docker-образы, описываю окружения через Docker Compose, настраиваю CI/CD и довожу сервисы до выкладки.</td>
+  </tr>
+  <tr>
     <td><strong>Oracle / PL/SQL Developer</strong></td>
     <td>Oracle-разработка: PL/SQL packages, procedures, triggers, отчёты, исправление данных и поддержка пользователей.</td>
   </tr>
   <tr>
     <td><strong>Автор AiNoCraft</strong></td>
-    <td>backend-архитектура, auth flows, интеграция с frontend, логика лаунчера и deployment-слой.</td>
+    <td>backend-архитектура, auth flows, интеграция с frontend, логика лаунчера, контейнеризация и deployment-слой.</td>
   </tr>
   <tr>
     <td><strong>Прикладная ML/CV-практика</strong></td>
