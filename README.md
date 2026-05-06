@@ -63,6 +63,7 @@
   <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0B1020" alt="React"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=0B1020" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/PyWebView-2C3E50?style=flat-square" alt="PyWebView"/>
   <img src="https://img.shields.io/badge/PyInstaller-FFB000?style=flat-square" alt="PyInstaller"/>
   <br/>
@@ -74,6 +75,7 @@
   <img src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=0B1020" alt="Ruff"/>
   <br/>
   <img src="https://img.shields.io/badge/TensorFlow%2FKeras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow/Keras"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/XGBoost-1f6f43?style=flat-square" alt="XGBoost"/>
   <img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square" alt="YOLOv8"/>
@@ -197,10 +199,9 @@ AiNoCraft — мой личный проект: Minecraft-экосистема �
   <img src="https://img.shields.io/badge/Work%20activity-private%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Private GitLab activity"/>
 </div>
 
-> Большая часть моей рабочей активности находится в закрытом GitLab компании. Поэтому GitHub-статистика ниже отражает в основном pet-проекты, учебные работы и публичные репозитории.
+> Большая часть моей рабочей активности находится в закрытом GitLab компании. Поэтому GitHub-статистика ниже отражает в основном личные проекты, учебные работы и публичные репозитории.
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akirakawashi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=akirakawashi&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
   <br/>
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=akirakawashi&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
