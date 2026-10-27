@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-labelledby="title">
-  <title id="title">Blue and violet footer waves</title>
+  <title id="title">Animated blue and violet footer waves</title>
   <defs>
     <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
       <stop stop-color="#7c3aed"/>
@@ -7,6 +7,12 @@
       <stop offset="1" stop-color="#0f172a"/>
     </linearGradient>
   </defs>
-  <path fill="url(#wave)" opacity=".4" d="M0 44C190 102 360 8 620 46S1000 85 1200 29V110H0Z"/>
-  <path fill="url(#wave)" opacity=".8" d="M0 70C250 18 390 98 650 65S1025 25 1200 78V110H0Z"/>
+  <path fill="url(#wave)" opacity=".4" d="M0 44C190 102 360 8 620 46S1000 85 1200 29V110H0Z">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".42 0 .58 1;.42 0 .58 1"
+      values="M0 44C190 102 360 8 620 46S1000 85 1200 29V110H0Z;M0 66C190 4 360 100 620 64S1000 8 1200 58V110H0Z;M0 44C190 102 360 8 620 46S1000 85 1200 29V110H0Z"/>
+  </path>
+  <path fill="url(#wave)" opacity=".8" d="M0 70C250 18 390 98 650 65S1025 25 1200 78V110H0Z">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".42 0 .58 1;.42 0 .58 1"
+      values="M0 70C250 18 390 98 650 65S1025 25 1200 78V110H0Z;M0 43C250 103 390 15 650 46S1025 106 1200 50V110H0Z;M0 70C250 18 390 98 650 65S1025 25 1200 78V110H0Z"/>
+  </path>
 </svg>
