@@ -1,6 +1,8 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:2563EB,100:7C3AED&height=210&section=header&text=akirakawashi&fontSize=54&fontColor=FFFFFF&fontAlignY=37&desc=AI%20Engineer%20%7C%20Fullstack%20Developer%20%7C%20Team%20Lead&descSize=16&descAlignY=58" alt="akirakawashi profile banner"/>
+  <img width="100%" src="assets/profile-header.svg" alt="akirakawashi profile banner"/>
 </div>
+
+<h1 align="center">Alexander Ozhereliev</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&lines=AI+Engineer+%26+Fullstack+Developer;Technical+Team+Leadership;LLM+%2F+VLM+%26+Speech+Analytics;Creator+of+AiNoCraft" alt="Typing SVG" />
@@ -15,78 +17,115 @@
   </a>
   <a href="mailto:akirakawashi@yandex.ru"><img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge" alt="Email"/></a>
   <a href="https://akirakawashi.github.io/my-profile/"><img src="https://img.shields.io/badge/Resume-6366F1?style=for-the-badge" alt="Resume"/></a>
-  <img src="https://komarev.com/ghpvc/?username=akirakawashi&style=for-the-badge&color=7c3aed" alt="Profile views"/>
 </div>
 
-<h2 align="center">Alexander Ozhereliev</h2>
+<p align="center"><a href="README.md">Русский</a> · <strong>English</strong></p>
 
-<p align="center"><strong>AI Engineer / Fullstack Developer / Team Lead</strong></p>
-
-<p align="center"><a href="README.md">Русский</a></p>
+<table>
+  <tr>
+    <td width="25%" align="center"><h3>3 years</h3><sub>Commercial development</sub></td>
+    <td width="25%" align="center"><h3>2 developers</h3><sub>Technical team leadership</sub></td>
+    <td width="25%" align="center"><h3>3 AI products</h3><sub>Delivered to production</sub></td>
+    <td width="25%" align="center"><h3>4 months</h3><sub>Serving as Team Lead</sub></td>
+  </tr>
+</table>
 
 ## About Me
 
-Fullstack and AI developer with 3 years of commercial experience. For the past 4 months, I have served as a Team Lead, coordinating two developers who primarily work on LLMs. I plan and allocate tasks, design architecture, conduct code reviews, and continue coding alongside the team.
+I build AI services and web applications: speech recognition and analysis, computer vision, document processing, and LLM/VLM integrations. Develop Python/FastAPI backends and React/Next.js frontends.
 
-I have worked in IT since 2020: Windows Server and Linux administration → technical support → backend → AI engineering and technical leadership. I joined IC8 in October 2022.
+At IC8, I combine technical leadership with development: coordinate two developers, plan and allocate tasks, design architecture, and conduct code reviews. I continue writing code alongside the team.
 
-I build AI services and web applications: speech recognition and analysis, computer vision, document processing, LLM/VLM integrations, Python/FastAPI backends, and React/Next.js frontends.
+**Career path:** working in IT since 2020 — Windows Server and Linux → technical support → backend → AI engineering and technical leadership. Joined IC8 in October 2022.
 
-**Within my first 4 months of technical leadership, delivered 3 AI products to production with the team:** outdoor advertising video analytics, speech analytics, and an enterprise LLM platform.
+---
 
-## Selected projects
+## Work Projects · IC8
+
+**Within my first 4 months of technical leadership, my team and I delivered three AI products to production.** My contribution combines architecture, development coordination, and hands-on implementation.
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <p><sub>01 / SPEECH & LLM</sub> &nbsp; <img src="https://img.shields.io/badge/Production-238636?style=flat-square" alt="Production"/></p>
       <h3><a href="https://github.com/akirakawashi/speech-backend">Speech Analytics</a></h3>
-      <p>Reworked an ASR and LLM call analytics system with another developer, split it into services, and introduced GigaAM with Triton/TensorRT. The full pipeline reached approximately 5,000 calls per hour in load tests. The system is in production.</p>
+      <p>Reworked an ASR and LLM call analytics system with another developer, split it into services, and introduced GigaAM with Triton/TensorRT.</p>
+      <p><strong>≈ 5,000 calls per hour</strong><br/><sub>Full pipeline · load tests</sub></p>
       <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/GigaAM-475569?style=flat-square" alt="GigaAM"/> <img src="https://img.shields.io/badge/LLM-475569?style=flat-square" alt="LLM"/></p>
       <p><a href="https://github.com/akirakawashi/speech-backend">Backend</a> · <a href="https://github.com/akirakawashi/speech-worker">Worker</a> · <a href="https://github.com/akirakawashi/speech-frontend">Frontend</a></p>
+      <details><summary>GigaAM ASR — recognition service</summary><p>HTTP speech recognition service. The encoder runs on GPU through Triton/TensorRT; audio preparation and decoding run on CPU. Models load once per process, with parallel recording processing.</p><p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&amp;logo=nvidia&amp;logoColor=white" alt="TensorRT"/> <img src="https://img.shields.io/badge/NVIDIA%20Triton%20Inference%20Server-76B900?style=flat-square&amp;logo=nvidia&amp;logoColor=white" alt="NVIDIA Triton Inference Server"/></p><p><a href="https://github.com/akirakawashi/speech-gigaam">speech-gigaam</a></p></details>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/akirakawashi/speech-gigaam">GigaAM ASR</a></h3>
-      <p>HTTP speech recognition service. The encoder runs on GPU through Triton/TensorRT; audio preparation and decoding run on CPU. Models load once per process, with parallel recording processing.</p>
-      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&amp;logo=nvidia&amp;logoColor=white" alt="TensorRT"/> <img src="https://img.shields.io/badge/NVIDIA%20Triton%20Inference%20Server-76B900?style=flat-square&amp;logo=nvidia&amp;logoColor=white" alt="NVIDIA Triton Inference Server"/></p>
-      <p><a href="https://github.com/akirakawashi/speech-gigaam">speech-gigaam</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+      <p><sub>02 / COMPUTER VISION</sub> &nbsp; <img src="https://img.shields.io/badge/Production-238636?style=flat-square" alt="Production"/></p>
       <h3><a href="https://github.com/akirakawashi/ai_ad_backend">AI Ad</a></h3>
-      <p>Independently developed and deployed outdoor advertising video analytics to production: detection, VLM brand classification, geolocation, and route analytics. Processes approximately 4–5 hours of video per week.</p>
+      <p>Independently developed and deployed outdoor advertising video analytics to production: detection, VLM brand classification, geolocation, and route analytics.</p>
+      <p><strong>4–5 hours of video per week</strong><br/><sub>Current processing volume</sub></p>
       <p><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/YOLO-475569?style=flat-square" alt="YOLO"/> <img src="https://img.shields.io/badge/VLM-475569?style=flat-square" alt="VLM"/></p>
       <p><a href="https://github.com/akirakawashi/ai_ad_backend">Backend</a> · <a href="https://github.com/akirakawashi/ai_ad_ml">ML</a> · <a href="https://github.com/akirakawashi/ai_ad_frontend">Frontend</a></p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <p><sub>03 / LLM PLATFORM</sub> &nbsp; <img src="https://img.shields.io/badge/Production-238636?style=flat-square" alt="Production"/></p>
       <h3><a href="https://akirakawashi.github.io/my-profile/#experience">Enterprise LLM Platform</a></h3>
       <p>Designed centralized architecture for LLMs/VLMs, guardrails, and AI agent tools. Coordinate development, integrations, and GPU infrastructure optimization.</p>
       <p><img src="https://img.shields.io/badge/Qwen-475569?style=flat-square" alt="Qwen"/> <img src="https://img.shields.io/badge/LLM%20%2F%20VLM-475569?style=flat-square" alt="LLM / VLM"/> <img src="https://img.shields.io/badge/AI%20Agents-475569?style=flat-square" alt="AI Agents"/></p>
       <p><a href="https://akirakawashi.github.io/my-profile/#experience">Details in resume</a></p>
     </td>
   </tr>
+</table>
+
+---
+
+## Personal Project
+
+<table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="65%" valign="top">
+      <p><img src="https://img.shields.io/badge/Live%20Platform-238636?style=flat-square" alt="Live Platform"/></p>
       <h3><a href="https://github.com/akirakawashi/AiNoCraft_back">AiNoCraft</a></h3>
       <p>Live gaming platform, developed with another developer. Responsible for architecture, backend, frontend, and infrastructure. Users can register, install the client, and play.</p>
-      <p><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/Kubernetes%20%2F%20k3s-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes / k3s"/></p>
       <p><a href="https://github.com/akirakawashi/AiNoCraft_back">Backend</a> · <a href="https://github.com/akirakawashi/AiNoCraft_front">Frontend</a> · <a href="https://github.com/akirakawashi/AiNoCraft_dep">Deployment</a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/akirakawashi/Ridebook-backend">Ridebook</a></h3>
-      <p>Intercity trip booking service, currently in development. Design segment-based seat inventory, fares, booking idempotency, and phone verification.</p>
-      <p><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white" alt="Redis"/></p>
-      <p><a href="https://github.com/akirakawashi/Ridebook-backend">Backend</a></p>
+    <td width="35%" valign="top">
+      <h3>My Role</h3>
+      <p>Architecture, backend, frontend, and infrastructure. Develop the project with another developer.</p>
+      <p><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/Kubernetes%20%2F%20k3s-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes / k3s"/></p>
     </td>
   </tr>
+</table>
+
+---
+
+## Freelance
+
+Client web services, integrations, and AI solutions. I work as an independent developer.
+
+<table>
   <tr>
     <td width="50%" valign="top">
+      <p><sub>VK / GAMIFICATION</sub> &nbsp; <img src="https://img.shields.io/badge/Launched-238636?style=flat-square" alt="Launched"/></p>
       <h3><a href="https://github.com/akirakawashi/volnateca_bot">Volnateca</a></h3>
       <p>Launched VK gamification platform: tasks, points, achievements, referrals, and a reward store. Implemented the callback server and administration interface.</p>
       <p><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/VK%20API-475569?style=flat-square" alt="VK API"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React"/></p>
       <p><a href="https://github.com/akirakawashi/volnateca_bot">Backend</a> · <a href="https://github.com/akirakawashi/volnateca_admin">Admin</a></p>
     </td>
     <td width="50%" valign="top">
+      <p><sub>WEB / BOOKING</sub> &nbsp; <img src="https://img.shields.io/badge/In%20Development-9a6700?style=flat-square" alt="In Development"/></p>
+      <h3><a href="https://github.com/akirakawashi/Ridebook-backend">Ridebook</a></h3>
+      <p>Intercity trip booking service, currently in development. Design segment-based seat inventory, fares, booking idempotency, and phone verification.</p>
+      <p><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&amp;logo=redis&amp;logoColor=white" alt="Redis"/></p>
+      <p><a href="https://github.com/akirakawashi/Ridebook-backend">Backend</a></p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><strong>Another project: Tilda → Nextcloud</strong></summary>
+
+<table>
+  <tr>
+    <td>
       <h3><a href="https://github.com/akirakawashi/integration_layer_tilda_api">Tilda → Nextcloud</a></h3>
       <p>Webhook integration with an idempotent PostgreSQL queue, background archive processing, WebDAV uploads, and transient-failure retries.</p>
       <p><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/WebDAV-475569?style=flat-square" alt="WebDAV"/></p>
@@ -95,7 +134,16 @@ I build AI services and web applications: speech recognition and analysis, compu
   </tr>
 </table>
 
-## Core stack
+</details>
+
+---
+
+## Core Stack
+
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/Qwen-475569?style=flat-square" alt="Qwen"/> <img src="https://img.shields.io/badge/Kubernetes%20%2F%20k3s-326CE5?style=flat-square&amp;logo=kubernetes&amp;logoColor=white" alt="Kubernetes / k3s"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker"/></p>
+
+<details>
+<summary><strong>Full stack by area</strong></summary>
 
 <table>
   <tr>
@@ -124,7 +172,9 @@ I build AI services and web applications: speech recognition and analysis, compu
   </tr>
 </table>
 
-## Engineering approach
+</details>
+
+## Engineering Approach
 
 - Plan and break down tasks, conduct code reviews, and help developers make technical decisions.
 - Take projects from requirements and architecture through deployment and maintenance.
@@ -132,15 +182,18 @@ I build AI services and web applications: speech recognition and analysis, compu
 - Account for request retries, transactions, and failure recovery.
 - Combine technical leadership with backend, frontend, and AI development.
 
-Alongside my primary role, I develop AiNoCraft. I deliver web services, AI solutions, bots, and integrations as an independent developer through VoidLabs.
-
 I want to grow in technical leadership while continuing hands-on development.
 
-## Learning projects
+<details>
+<summary><strong>Learning Projects</strong></summary>
 
 [Recommendation system](https://github.com/akirakawashi/Anime_Recommendation_System) · [Diamond price prediction](https://github.com/akirakawashi/Diamond_Price_Prediction) · [Vehicle detection in ROI](https://github.com/akirakawashi/roi_detection_car)
 
+</details>
+
 ## GitHub Statistics
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=akirakawashi&style=for-the-badge&color=7c3aed" alt="Profile views"/></p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Work%20activity-private%20GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="Private GitLab activity"/>
@@ -152,6 +205,8 @@ I want to grow in technical leadership while continuing hands-on development.
   <img width="64%" src="https://github-readme-streak-stats.herokuapp.com/?user=akirakawashi&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </div>
 
+
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:2563EB,100:0F172A&height=120&section=footer" alt="footer"/>
+  <img width="100%" src="assets/profile-footer.svg" alt="footer"/>
 </div>
